@@ -1,0 +1,10 @@
+Godot Engine v4.5.1.stable.official.f62fdbde1 - https://godotengine.org
+
+PASS: Fecha diálogo com tecla 4194309
+PASS: Fecha diálogo com tecla 4194310
+PASS: Fecha diálogo com tecla 32
+PASS: Fecha diálogo com tecla 4194305
+PASS: Enter confirma uma única transação
+PASS: Repetição automática não duplica transação
+PASS: Clique real no botão fecha diálogo
+RESULTADO: 0 falhas

@@ -1,0 +1,19 @@
+Godot Engine v4.5.1.stable.official.f62fdbde1 - https://godotengine.org
+
+PASS: Não desperdiça lanche com energia cheia
+PASS: Lanche recupera energia sem período
+PASS: Compra bloqueada sem saldo
+PASS: Capacidade não cobra compra recusada
+PASS: Amizade cresce uma vez por dia
+PASS: Amizade libera trabalho de $45
+PASS: Semana completa avaliada com bolsa
+PASS: Semana seguinte reinicia preparo e frequência
+PASS: Sem frequência não recebe bolsa
+PASS: Save v1 completo migra para v2
+PASS: Save v2 fora dos limites rejeitado
+PASS: Cenário usa superfície pixel 480x270
+PASS: Abre painel pela tecla 74
+PASS: Painel cabe na altura da janela
+PASS: Abre painel pela tecla 73
+PASS: Painel cabe na altura da janela
+RESULTADO: 0 falhas

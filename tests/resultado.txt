@@ -1,0 +1,27 @@
+Godot Engine v4.5.1.stable.official.f62fdbde1 - https://godotengine.org
+
+PASS: Aula avança manhã e aplica custo
+PASS: Aula repetida bloqueada
+PASS: Pacote aceito à tarde
+PASS: Entrega paga uma vez e remove pacote
+PASS: Sem duplicação de recompensa
+PASS: Atividade noturna inicia próximo dia
+PASS: Negócio cobra investimento e paga renda líquida
+PASS: Energia insuficiente impede transação
+PASS: Apreensão e multa sem saldo negativo
+PASS: Save gravado
+PASS: Save restaurado
+PASS: Save inválido preserva estado
+PASS: Cena inicial e diálogo instanciados
+PASS: Diálogo bloqueia movimento
+PASS: Spawn livre: home
+PASS: Spawn livre: campus
+PASS: Spawn livre: street
+PASS: Spawn livre: bar
+PASS: Diagonal normalizada
+PASS: Cama bloqueia passagem
+PASS: Limite de mapa bloqueia passagem
+PASS: Fim do dia retorna à república
+PASS: Zona de patrulha aplica consequência
+PASS: Patrulha não repete abordagem na mesma visita
+RESULTADO: 0 falhas
